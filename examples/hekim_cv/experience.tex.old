@@ -1,0 +1,111 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Lead Software Engineer} % Job title
+    {Ascan(Start-up)} % Organization
+    {Seoul, S.Korea} % Location
+    {May. 2015 - Present} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Developed a Chromium based Desktop WebApp including Shell
+    Extensions using CEF, Boost, XMPP, AngularJS for file sharing \& version management.}
+        \item {Wrote Python and Batch scripts automate the full build, packging and deployment cycle running on Jenkins.}
+        \item {Improved Software Quality and Responsiveness dramatically by adding Task based C\# Asynchronous and Parallelism implementation for C\# project.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Software Engineer} % Job title
+    {Kakao} % Organization
+    {Pangyo, S.Korea} % Location
+    {Feb. 2014 - Apr. 2015} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Joined to the KakaoTalk messenger for Windows Desktop product team and developed various features such as Accessibiilty support, UI, updater and security enhancement. }
+        \item {Developed backends with ASP.NET/Flask \& mongodb stack for internal use.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Support Engineer} % Job title
+    {Microsoft} % Organization
+    {Seoul, S.Korea} % Location
+    {May. 2011 - Jan. 2014} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {WDK/SDK Developer Support. Provided development consulting \& advisory services for customers with troubleshooting and extensive debugging.}
+        \item {OEM/Embedded Products Support. Also helped customers to build their software and hardware for Windows Embedded products including Windows Mobile, Windows CE, PosReady, and etc.}
+      \end{cvitems} 
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Senior Software Engineer} % Job title
+    {DevGuru} % Organization
+    {Seoul, S.Korea} % Location
+    {Nov. 2009 - Mar. 2011} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Developed a QMI network device driver and its user library for Verizon Pantech UML290 4G LTE USB Modem.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Senior Software Engineer} % Job title
+    {NCSoft} % Organization
+    {Seoul, S.Korea} % Location
+    {Mar. 2009 - Nov. 2009} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Designed and implemented the security framework library for game client and server. The feature performs periodic integrity checks and scanning for game binary with client/server communication in real time.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Software Engineer} % Job title
+    {AhnLab} % Organization
+    {S.Korea} % Location
+    {Sep. 2003 - Feb. 2006} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Developed a Filter Device Driver and User Modules which provides real-time monitoring via kernel/user hooking (API \& SDT) for an Anti-online game hacking product to protect system from illegal behaviors.}
+        \item {Researched hacking issues, debugging and Windows internals to design and implement products.}
+      \end{cvitems}
+      %\begin{cvsubentries}
+      %  \cvsubentry{}{KNOX(Solution for Enterprise Mobile Security) Penetration Testing}{Sep. 2013}{}
+      %  \cvsubentry{}{Smart TV Penetration Testing}{Mar. 2011 - Oct. 2011}{}
+      %\end{cvsubentries}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Software Engineer} % Job title
+    {Security Wizard} % Organization
+    {S.Korea} % Location
+    {Feb. 2001 - Jun. 2003} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item {Implemented a personal firewall engine for driver control and firewall rule management including LSP filtering module, NDIS TDI Device Driver for Win9X, and NT.}
+      \end{cvitems}
+      %\begin{cvsubentries}
+      %  \cvsubentry{}{KNOX(Solution for Enterprise Mobile Security) Penetration Testing}{Sep. 2013}{}
+      %  \cvsubentry{}{Smart TV Penetration Testing}{Mar. 2011 - Oct. 2011}{}
+      %\end{cvsubentries}
+    }
+
+%---------------------------------------------------------
+\end{cventries}
